@@ -1,0 +1,7 @@
+name="Kodi 18.2 for android 5.0+"
+section="no"
+url="https://candoportal.ca/Wizard/APK/CanDo%20Kodi%2018.2%2032Bit.apk"
+icon="https://candoportal.ca/Wizard/IMG/kodilogo.png"
+fanart="http://"
+adult="no"
+description="Kodi 18.2 for android 5.0+"

@@ -1,0 +1,18 @@
+id="plugin.program.CanDoWizard"
+version="2.0"
+zip="https://candoportal.ca/Wizard/plugin.program.CanDoWizard.zip"
+
+name="CanDo Kodi 5.0 Build"
+version="5.0"
+url="https://www.candoportal.ca/Wizard/Builds/CanDoBuild5.0.zip"
+minor="http://"
+gui="https://www.candoportal.ca/Wizard/Builds/guisettings.xml"
+kodi="18.5"
+theme="https://candoportal.ca/Wizard/Builds/theme.txt"
+icon="http://mycandohome.ca/candowizard/icon.png"
+fanart="http://mycandohome.ca/candowizard/fanart.jpg"
+preview=""
+adult="no"
+info="url.to.info"
+description="CanDo Kodi 18 Build."
+

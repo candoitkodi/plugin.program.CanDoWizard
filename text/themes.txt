@@ -1,0 +1,5 @@
+name="Example Theme"
+url="https://candoportal.ca/Wizard/Builds/theme.txt"
+icon="http://mycandohome.ca/candowizard/icon.png"
+fanart="http://mycandohome.ca/candowizard/fanart.jpg"
+description="CanDo 5.0 Theme."
